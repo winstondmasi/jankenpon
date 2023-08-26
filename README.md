@@ -1,2 +1,3 @@
 # Quant-Discord-Bot
-Quantitative Analysis Discord Bot with Java
+Quantitative Analysis Discord Bot
+
